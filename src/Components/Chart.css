@@ -1,0 +1,31 @@
+.barchart {
+  background-color: white;
+  border-radius: 20px;
+  color: rgb(126, 128, 141);
+  font-size: 25px;
+  font-weight: bold;
+  border: 1px solid royalblue;
+}
+.back {
+  cursor: pointer;
+}
+.back:hover {
+  color: rgb(83, 83, 87);
+}
+.percentage {
+  color: rgba(44, 217, 138, 0.8);
+  font-size: 45px;
+  font-weight: lighter;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+.total-percent {
+  font-size: 50px;
+  color: rgb(30, 168, 255);
+  font-weight: lighter;
+}
+.increment-percentage {
+  font-size: 30px;
+  color: rgb(30, 168, 255);
+  font-weight: normal;
+}
