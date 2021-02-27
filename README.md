@@ -1,3 +1,7 @@
+## Deployed link.
+# https://fierce-plateau-92303.herokuapp.com/
+
+
 ## This Project is totally developed on react js.
 
 #### Technology used are React js, chart js and Bootstrap 4.
